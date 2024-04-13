@@ -29,12 +29,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/thiagoprz/ionic-currency-mask.git"
+    "url": "git+ssh://git@github.com/codedbug/ionic-currency-mask.git"
   },
   "author": "Thiago Przyczynski <przyczynski@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thiagoprz/ionic-currency-mask/issues"
+    "url": "https://github.com/codedebug/ionic-currency-mask/issues"
   },
-  "homepage": "https://github.com/thiagoprz/ionic-currency-mask#readme"
+  "homepage": "https://github.com/codedebug/ionic-currency-mask#readme"
 }
